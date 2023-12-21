@@ -31,7 +31,7 @@ The simulation is displayed in real-time using the StdDraw library.
 
 ## Sample Output
 The program outputs the entered angle and the calculated maximum distance in kilometers.
-Feel free to modify and expand upon this template based on your specific requirements and additional details about the program.
+
 
 ## Screen Shots
 
@@ -43,7 +43,6 @@ Feel free to modify and expand upon this template based on your specific require
 
 ![](/screenshots/Program-GUI.png)
 
-
-
+Feel free to modify and expand upon this template based on your specific requirements and additional details about the program.
 
 
